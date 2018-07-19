@@ -14,7 +14,7 @@ int main() {
     cin>>longitud;
     cout<<"Ingrese el numero de particiones";
     cin>>num_particiones;
-    
+    hola
     for(int i=0; i<num_particiones;i++){
         cin>>particiones[i];
     }
